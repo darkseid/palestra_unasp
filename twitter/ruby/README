@@ -1,0 +1,3 @@
+Instalacao da biblioteca para utilziacao da API do Twitter:
+  sudo gem install twitter
+

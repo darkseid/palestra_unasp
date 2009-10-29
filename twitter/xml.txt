@@ -1,0 +1,10 @@
+API: http://apiwiki.twitter.com/Twitter-API-Documentation
+
+ver a timeline publica
+	curl http://twitter.com/statuses/public_timeline.xml
+
+friends timeline
+	curl -u rafael_unasp:rafael http://twitter.com/statuses/friends_timeline.xml
+
+atualizando o status
+	curl -u rafael_unasp:rafael -d "status=Utilizando o twitter via linha de comando " http://twitter.com/statuses/update.xml
