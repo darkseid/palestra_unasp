@@ -2,6 +2,3 @@ Para os exemplos desta pasta será necessário:
 
 sudo gem install httparty
 
-
-para o funcionamento de upload.rb
-	sudo gem install mime-types
